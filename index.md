@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/AD1N23/AD1N23.github.ip/ed
 
 - Bulleted 
 - list
-1 Numbered 
-2 list
+1. Numbered 
+2. list
 
 [ИСР 1.1](https://github.com/AD1N23/AD1N23.github.ip/raw/gh-pages/КР%20Помыкин%20МА%20ИВТ%202.2.docx)
 
